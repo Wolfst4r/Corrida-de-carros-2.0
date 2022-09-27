@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.customButton{
+    width: 100px;
+    height: 50px;
+    border-radius: 20%;
+    background-color: #e4e963;
+    border: solid 2px yellow;
+    margin: 10px;
+}
